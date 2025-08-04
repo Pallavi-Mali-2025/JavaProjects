@@ -6,7 +6,7 @@ public class StudentMain {
 		
 		Student s =new Student();
 		s.sid=100;
-		s.sname="Pallavi";
+		s.sname="Prisha";
 		s.grade='A';
 		s.PrintStudentData();
 

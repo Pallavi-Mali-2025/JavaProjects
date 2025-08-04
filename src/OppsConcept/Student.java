@@ -10,4 +10,9 @@ public class Student {
 	{
 		System.out.println(sid+" " +sname +" " +grade);
 	}
+	void setData()
+	{
+		
+	}
+	
 }
